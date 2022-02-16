@@ -1,0 +1,1 @@
+<svg {{ $attributes->merge(['class' => 'flex-shrink-0 h-6 w-6']) }} fill="currentColor" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block;"><g><path d="M21,6H3V5h18V6z M21,11H3v1h18V11z M21,17H3v1h18V17z"></path></g></svg>

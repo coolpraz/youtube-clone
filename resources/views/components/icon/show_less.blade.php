@@ -1,0 +1,1 @@
+<svg {{ $attributes->merge(['class' => 'flex-shrink-0 h-6 w-6']) }} viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block;"><g><polygon points="18.4,14.6 12,8.3 5.6,14.6 6.4,15.4 12,9.7 17.6,15.4 "></polygon></g></svg>
