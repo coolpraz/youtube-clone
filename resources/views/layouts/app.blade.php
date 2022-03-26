@@ -250,8 +250,6 @@
                 </div>
             </div>
         </aside>
-        <main class="flex ipad:mb-4 mt-14 ytbigmob:ml-[4.5rem] ipad:ml-60">
-            {{ $slot }}
-        </main>
+        {{ $slot }}
     </body>
 </html>

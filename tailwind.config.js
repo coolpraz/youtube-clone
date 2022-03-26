@@ -36,7 +36,8 @@ module.exports = {
                     copyright: '#717171',
                     tagBorder: '#4C4C4C',
                     tagHover: '#4D4D4D',
-                    tagHoverBorder: '#606060'
+                    tagHoverBorder: '#606060',
+                    primaryButton: '#CC0200'
                 }
             },
 
